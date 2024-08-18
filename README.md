@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/PAPAMICA/docker-compose-collection#list-of-services-availables"><img src="https://img.shields.io/badge/List_of_services-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
-    <a href="https://github.com/PAPAMICA/docker-compose-collection#utilisation"><img src="https://img.shields.io/badge/How_to_use-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
-    <a href="https://github.com/PAPAMICA/docker-compose-collection#add-new-docker-compose-file"><img src="https://img.shields.io/badge/Add_new_service-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
+    <a href="https://github.com/favre-nicolas/docker-compose-collection#list-of-services-availables"><img src="https://img.shields.io/badge/List_of_services-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
+    <a href="https://github.com/favre-nicolas/docker-compose-collection#utilisation"><img src="https://img.shields.io/badge/How_to_use-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
+    <a href="https://github.com/favre-nicolas/docker-compose-collection#add-new-docker-compose-file"><img src="https://img.shields.io/badge/Add_new_service-%2341454A.svg?style=for-the-badge&logo=target&logoColor=white"> </a>
     <br />
-  <a><img alt="Updated" src="https://img.shields.io/badge/updated-2024_08_18_03h38-%232496ED.svg?style=for-the-badge&logo=social-blade&logoColor=white" ></a> <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/PAPAMICA/docker-compose-collection/main.yml?branch=master&label=Files%20generating&logo=files&logoColor=white&style=for-the-badge">
+  <a><img alt="Updated" src="https://img.shields.io/badge/updated-2024_08_18_03h42-%232496ED.svg?style=for-the-badge&logo=social-blade&logoColor=white" ></a> <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/favre-nicolas/docker-compose-collection/main.yml?branch=master&label=Files%20generating&logo=files&logoColor=white&style=for-the-badge">
     <br />
     <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"> </a>
     <a href="https://www.portainer.io/"><img src="https://img.shields.io/badge/portainer-%2313BEF9.svg?style=for-the-badge&logo=portainer&logoColor=white"> </a>
@@ -59,7 +59,7 @@ You can deploy a compatible Docker environment with Portainer and Traefik with:
 Add this URL in Portainer:
 
 ```
-https://raw.githubusercontent.com/PAPAMICA/docker-compose-collection/master/templates-portainer.json
+https://raw.githubusercontent.com/favre-nicolas/docker-compose-collection/master/templates-portainer.json
 ```
 
 ![PORTAINER](https://i.imgur.com/M49ssCN.png)
@@ -72,7 +72,7 @@ apt install -y git
 
 Clone repo
 ```bash
-git clone https://github.com/PAPAMICA/docker-compose-collection/
+git clone https://github.com/favre-nicolas/docker-compose-collection/
 ```
 
 
